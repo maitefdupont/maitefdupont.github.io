@@ -1,7 +1,3 @@
-# Maitê Dupont
-## Serviços de TI
-
-# SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO E SISTEMAS
 ## Sites
 * Criação de sites
 * Migração de sites para WordPress
@@ -21,6 +17,8 @@
 
 # Entrar em contato
 Sua mensagem será muito bem-vinda!
+
+maitefdupont@gmail.com
 
 Porto Alegre, RS - Brasil
 
